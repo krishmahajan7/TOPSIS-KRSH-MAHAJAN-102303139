@@ -1,2 +1,2 @@
-﻿pandas
-numpy
+Python >= 3.8
+numpy, pandas, scipy
