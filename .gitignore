@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+TOPSIS_KRISH_MAHAJAN.egg-info/
+dist/
+build/
